@@ -6,8 +6,8 @@
 
 The Calculator & Buttons page is a web browser calculator as well as a splash of button designs all built using html & css.
 
-<a href='./1-buttons/btns/btns.html'>Button page</a>
-<a href='./2-calculator/index.html'>Calculator</a>
+Link to main page(WIP):
+https://overtonjust.github.io/fortify-exploring-properties/
 
 ## Features
   - Standard functioning calculator with button feedback on click
@@ -17,5 +17,5 @@ The Calculator & Buttons page is a web browser calculator as well as a splash of
  - Add additional buttons / effects
  - Split calculator functionality into its own js script file
  - Refresh calculator buttons to differentiate between the header, numbers and operand buttons
- - Create a main hub page
+ - Develop main page 
  - Transfer project to new repo
